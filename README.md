@@ -1,79 +1,84 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There,%20I'm%20Kaavya%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Undergrad%20%7C%20Building%20%26%20Learning%20Every%20Day&descAlignY=55&descSize=18" />
+<img src="assets/banner.svg" width="100%" alt="Kaavya Sarin banner" />
+
+<br/>
 
 <a href="https://www.linkedin.com/in/kaavya-sarin-61042a311" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=FFD700" />
 </a>
 <a href="mailto:sarinkaavya19@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=FFD700" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=sarinkaavya19-ai&style=for-the-badge&color=6a11cb&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=sarinkaavya19-ai&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS&labelColor=0d0d0d" />
 
 <br/><br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=CS+Undergrad+%F0%9F%92%BB;Business+Studies+Enthusiast+%F0%9F%93%88;Learning+Python%2C+Java%2C+C%2FC%2B%2B;Always+Open+to+Collaborate+%F0%9F%A4%9D&font=Fira%20Code&center=true&width=600&height=45&color=6a11cb&vCenter=true&size=22" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Even+Tony+Stark+started+in+a+cave+with+a+box+of+scraps;CS+Undergrad+%7C+Business+Enthusiast+%7C+Builder;Currently+running+on+coffee+%26+curiosity&font=Fira%20Code&center=true&width=650&height=45&color=FFD700&vCenter=true&size=20&pause=1200" />
 
 </div>
 
 <br/>
 
-## 🚀 About Me
-
-- 🎓 CS undergrad with a strong interest in **business studies & technology**
-- 💻 Comfortable coding in **Python, Java, C, C++, HTML/CSS**
-- 🌱 Currently deepening my skills in full-stack development & databases
-- 🤝 Always up for collaborating on interesting, real-world projects
-- ⚡ Fun fact: I like turning class assignments into actual usable systems
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500">
-</div>
-
-<br/>
-
-## 🛠️ Languages & Tools
+## 🔺 Diagnostics Panel
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+| ⚙️ | Reading |
+|---|---|
+| **Designation** | Kaavya Sarin |
+| **Class** | CS Undergrad |
+| **Secondary Interest** | Business Studies |
+| **Core Languages** | Python · Java · C · C++ · HTML/CSS |
+| **Current Mission** | Learning full-stack dev & databases |
+| **Status** | 🟢 Open to collaboration |
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+## ⚡ Tech Stack
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sarinkaavya19-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarinkaavya19-ai&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sarinkaavya19-ai&theme=tokyonight&hide_border=true" />
-</div>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,mysql,git,github,vscode,linux&theme=dark" />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarinkaavya19-ai&theme=tokyonight&no-frame=true&row=1&margin-w=15&column=6" />
 </div>
 
 <br/>
 
-## 🧠 Featured Projects
+## 📊 System Stats
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sarinkaavya19-ai&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFD700&icon_color=E63946&text_color=E6E6E6&border_color=FFD700&cache_seconds=86400&count_private=true" width="100%"/>
+
+</td>
+<td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarinkaavya19-ai&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFD700&text_color=E6E6E6&border_color=FFD700&cache_seconds=86400" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=sarinkaavya19-ai&hide_border=true&background=0D0D0D&ring=FFD700&fire=E63946&currStreakLabel=FFD700&sideLabels=E6E6E6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9AA0A6&border=FFD700" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sarinkaavya19-ai&theme=onedark&no-frame=true&row=1&margin-w=15&column=6" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarinkaavya19-ai&bg_color=0D0D0D&color=FFD700&line=E63946&point=FFFFFF&area_color=8B0000&hide_border=true" width="90%"/>
+</div>
+
+<br/>
+
+## 🧠 Featured Builds
 
 <div align="center">
 
@@ -90,10 +95,25 @@
 
 <br/>
 
-## 📈 Contribution Graph
+## 🔧 Suit Systems
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarinkaavya19-ai&theme=tokyo-night&hide_border=true" width="90%"/>
+
+| Suit System | Real-World Translation |
+|---|---|
+| ⚛️ Arc Reactor | Core languages that keep every project powered — Python, Java, C/C++ |
+| 🛰️ HUD & Sensors | Debugging — finding the problem before it finds you |
+| 🤖 J.A.R.V.I.S. | Currently training my own — learning full-stack + DB design |
+| 🛠️ Workshop | Where messy class assignments turn into actual working systems |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> *"I am Iron Man."* — well, not quite yet. Still assembling the suit, one repo at a time. 🔩
+
 </div>
 
 <br/>
@@ -103,18 +123,14 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/kaavya-sarin-61042a311" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=FFD700" />
 </a>
 <a href="mailto:sarinkaavya19@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=FFD700" />
 </a>
 
 <br/><br/>
 
-<i>"Always learning, always building." 🚀</i>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FFD700&height=100&section=footer" />
 
 </div>
