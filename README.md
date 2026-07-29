@@ -65,7 +65,7 @@
 </table>
 
 <div align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=sarinkaavya19-ai&theme=onedark&no-frame=true&row=1&margin-w=15&column=6" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=sarinkaavya19-ai&theme=onedark&no-frame=true&row=1&margin-w=15&column=6" />
 </div>
 
 <div align="center">
