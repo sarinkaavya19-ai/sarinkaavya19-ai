@@ -53,30 +53,24 @@
 <tr>
 <td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sarinkaavya19-ai&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFD700&icon_color=E63946&text_color=E6E6E6&border_color=FFD700&cache_seconds=86400&count_private=true" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=sarinkaavya19-ai&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFD700&icon_color=E63946&text_color=E6E6E6&border_color=FFD700" width="100%"/>
 
 </td>
 <td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarinkaavya19-ai&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFD700&text_color=E6E6E6&border_color=FFD700&cache_seconds=86400" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sarinkaavya19-ai&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFD700&text_color=E6E6E6&border_color=FFD700" width="100%"/>
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sarinkaavya19-ai&hide_border=true&background=0D0D0D&ring=FFD700&fire=E63946&currStreakLabel=FFD700&sideLabels=E6E6E6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9AA0A6&border=FFD700" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=sarinkaavya19-ai&theme=onedark&no-frame=true&row=1&margin-w=15&column=6" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarinkaavya19-ai&theme=onedark&no-frame=true&row=1&margin-w=15&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarinkaavya19-ai&bg_color=0D0D0D&color=FFD700&line=E63946&point=FFFFFF&area=true&hide_border=true" width="90%"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarinkaavya19-ai&bg_color=0D0D0D&color=FFD700&line=E63946&point=FFFFFF&area_color=8B0000&hide_border=true" width="90%"/>
-</div>
-
-<br/>
 
 ## 🧠 Featured Builds
 
