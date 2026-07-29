@@ -64,9 +64,6 @@
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=sarinkaavya19-ai&theme=onedark&no-frame=true&row=1&margin-w=15&column=6" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarinkaavya19-ai&bg_color=0D0D0D&color=FFD700&line=E63946&point=FFFFFF&area=true&hide_border=true" width="90%"/>
