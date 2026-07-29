@@ -1,0 +1,58 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d0d0d"/>
+      <stop offset="100%" stop-color="#210000"/>
+    </linearGradient>
+    <radialGradient id="core" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="35%" stop-color="#7fe3ff"/>
+      <stop offset="100%" stop-color="#0d47a1" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="goldText" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFD700"/>
+      <stop offset="100%" stop-color="#FF8C00"/>
+    </linearGradient>
+    <style>
+      .pulse { animation: pulse 2.4s ease-in-out infinite; transform-origin: 130px 110px; }
+      @keyframes pulse { 0%,100% { opacity: 0.7; } 50% { opacity: 1; } }
+      .ring1 { animation: spin 9s linear infinite; transform-origin: 130px 110px; }
+      .ring2 { animation: spinRev 13s linear infinite; transform-origin: 130px 110px; }
+      @keyframes spin { from { transform: rotate(0deg);} to { transform: rotate(360deg);} }
+      @keyframes spinRev { from { transform: rotate(360deg);} to { transform: rotate(0deg);} }
+      .scan { animation: scan 3.2s ease-in-out infinite; }
+      @keyframes scan { 0% { opacity:0; } 50% { opacity:0.45;} 100% {opacity:0;} }
+      .txt { font-family: Verdana, Geneva, sans-serif; }
+      .mono { font-family: 'Courier New', monospace; }
+    </style>
+  </defs>
+
+  <rect width="900" height="220" rx="14" fill="url(#bg)"/>
+
+  <g stroke="#FFD700" stroke-opacity="0.08" stroke-width="1">
+    <line x1="0" y1="40" x2="900" y2="40"/>
+    <line x1="0" y1="180" x2="900" y2="180"/>
+    <line x1="260" y1="0" x2="260" y2="220"/>
+  </g>
+
+  <g stroke="#FFD700" stroke-width="2" fill="none" opacity="0.6">
+    <path d="M16 16 L16 36 M16 16 L36 16"/>
+    <path d="M884 16 L884 36 M884 16 L864 16"/>
+    <path d="M16 204 L16 184 M16 204 L36 204"/>
+    <path d="M884 204 L884 184 M884 204 L864 204"/>
+  </g>
+
+  <g>
+    <circle class="pulse" cx="130" cy="110" r="70" fill="url(#core)"/>
+    <circle class="ring1" cx="130" cy="110" r="55" fill="none" stroke="#FFD700" stroke-width="3" stroke-dasharray="10 6"/>
+    <circle class="ring2" cx="130" cy="110" r="40" fill="none" stroke="#E63946" stroke-width="2" stroke-dasharray="4 10"/>
+    <circle cx="130" cy="110" r="22" fill="#ffffff"/>
+    <circle cx="130" cy="110" r="14" fill="#7fe3ff"/>
+  </g>
+
+  <rect class="scan" x="0" y="108" width="900" height="4" fill="#FFD700"/>
+
+  <text x="300" y="95" class="txt" font-size="46" font-weight="700" fill="url(#goldText)">KAAVYA SARIN</text>
+  <text x="300" y="130" class="mono" font-size="16" fill="#E63946" letter-spacing="2">STATUS: ONLINE // CS UNDERGRAD // ALWAYS BUILDING</text>
+  <text x="300" y="160" class="mono" font-size="13" fill="#9aa0a6" letter-spacing="1">CORE: PYTHON · JAVA · C/C++ · SQL   |   MISSION: KEEP SHIPPING</text>
+</svg>
